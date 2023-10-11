@@ -1,4 +1,4 @@
-# notion md to docx
+# notion md to docx converter
 전시 <게임사회> 부록 웹사이트 원고 편집 작업을 돕기 위함. 
 
 ## 0. 먼저 docx 또는 hwp파일을 다음과 같이 편집하여 노션으로 옮긴다 [링크](https://www.notion.so/eb483e459da24fd6aee680a36de6e3bc?pvs=4)
